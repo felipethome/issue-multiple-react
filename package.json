@@ -1,0 +1,28 @@
+{
+  "name": "addComponentAsRefTo",
+  "author": "Felipe Thome",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "~4.1.4",
+    "babel-preset-react": "~6.1.2",
+    "babelify": "~7.2.0",
+    "browserify": "~12.0.1",
+    "eslint": "~1.8.0",
+    "eslint-plugin-react": "~3.16.1",
+    "gulp": "~3.9.0",
+    "gulp-connect": "~2.2.0",
+    "gulp-if": "^2.0.0",
+    "gulp-notify": "~2.2.0",
+    "gulp-streamify": "~1.0.2",
+    "gulp-util": "~3.0.7",
+    "react": "~0.14.6",
+    "react-addons-transition-group": "^0.14.7",
+    "react-dom": "~0.14.6",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "~3.6.0"
+  },
+  "scripts": {
+    "lint": "eslint src",
+    "gulp": "gulp"
+  }
+}
